@@ -253,7 +253,7 @@ Após a publicação, o link final do site deve ser colocado nesta seção.
 
 **Link do site:**
 
-COLOCAR LINK DA VERCEL AQUI
+https://festival-frequency-uprising-sp.vercel.app/
 
 ---
 
